@@ -18,5 +18,6 @@ fields:
   hidden: false
   default: true
 pages:
+- posts/how-i-did-it.md
 - posts/where-are-you.md
 - posts/apparently.md
