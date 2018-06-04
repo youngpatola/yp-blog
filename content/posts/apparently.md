@@ -4,4 +4,4 @@ draft = true
 title = "Apparently"
 
 +++
-
+Netlify does not show my posts. Will discover changes first.
