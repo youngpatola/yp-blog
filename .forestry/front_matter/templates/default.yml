@@ -18,6 +18,7 @@ fields:
   hidden: false
   default: true
 pages:
+- posts/if-you-could-check-this-out.md
 - posts/how-i-did-it.md
 - posts/where-are-you.md
 - posts/apparently.md
