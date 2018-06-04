@@ -1,9 +1,8 @@
 ---
-title: "Static Site Question"
-date: 2018-06-04T16:03:51+08:00
-draft: true
----
+title: Static Site Question
+date: 2018-06-04 16:03:51 +0800
 
+---
 > I'm going to be building a couple websites for various small businesses. I work as a full stack developer by day and feel like using node or Python on the backend would just be overkill.
 
 > I know about Jekyll, and I can see how I could customize it to fit my needs, but are there any static site generators for just small informational sites?
