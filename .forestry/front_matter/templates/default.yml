@@ -18,4 +18,5 @@ fields:
   hidden: false
   default: true
 pages:
+- posts/where-are-you.md
 - posts/apparently.md
