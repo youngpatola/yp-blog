@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://ypblog.netlify.com/"
 languageCode = "en-us"
 title = "Young Patola Blog"
 theme = "paper"
